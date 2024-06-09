@@ -1,0 +1,53 @@
+# https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
+.vscode
+#!.vscode/settings.json
+#!.vscode/tasks.json
+#!.vscode/launch.json
+#!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# introcs-specific
+zzz-*/
+zzz*.*
+zzz/
+future-materials/
+trash/
+.DS_Store
+note.md

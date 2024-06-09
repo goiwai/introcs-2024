@@ -1,0 +1,41 @@
+*** program-1.0.0.cxx	2022-06-27 14:52:30.000000000 +0900
+--- program-1.0.1.cxx	2022-06-27 14:52:51.000000000 +0900
+***************
+*** 1,6 ****
+  #include <iostream>
+  
+! const char* VERSION = "1.0.0";
+  void process();
+  
+  int main() {
+--- 1,14 ----
+  #include <iostream>
+  
+! // include to use the sleep
+! #ifndef WIN32
+! #include <unistd.h>
+! #else
+! #include <stdlib.h>
+! #define sleep(sec) _sleep(sec*1000)
+! #endif
+! 
+! const char* VERSION = "1.0.1";
+  void process();
+  
+  int main() {
+***************
+*** 13,21 ****
+--- 21,33 ----
+  
+  void process() {
+    std::cout << "PROCESS START IN FUNCTION" << std::flush;
++   sleep(1);
+    std::cout << "." << std::flush;
++   sleep(1);
+    std::cout << "." << std::flush;
++   sleep(1);
+    std::cout << "." << std::flush;
++   sleep(1);
+    std::cout << " DONE!" << std::endl;
+    return;
+  }
