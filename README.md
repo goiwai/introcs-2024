@@ -15,7 +15,7 @@
 |  | 13:00-16:00 | Meeting room #2, South Building of CRC |
 | Thu, June 20th, 2024 | 9:00-12:00 | Meeting room #127, Building #4[^bld4] |
 |  | 13:00-16:00 | Meeting room #127, Building #4 |
-| Fri, June 21th, 2024 | 9:00-12:00 | Meeting room #2, South Building of CRC |
+| Fri, June 21st, 2024 | 9:00-12:00 | Meeting room #2, South Building of CRC |
 
 [^crc]: N06 on the map: <https://www.kek.jp/wp-content/uploads/2024/02/Campus_Map_J-2022-07JP1.pdf>
 [^bld4]: M02 on the map: <https://www.kek.jp/wp-content/uploads/2024/02/Campus_Map_J-2022-07JP1.pdf>
