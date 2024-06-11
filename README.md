@@ -1,5 +1,7 @@
 # Introduction to Computational Science 2024
 
+branch: dev
+
 ## Proposed schedule for the course
 
 - 3 hours class x7-8 (a week intense course)
