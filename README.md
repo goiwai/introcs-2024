@@ -1,16 +1,23 @@
 # Introduction to Computational Science 2024 <!-- omit in toc -->
 
+The course aims to encourage students to understand the fundamental concepts of computer architecture and network communication. Students will also study programming principles through the computational simulation and calculation program required mainly for high-energy and nuclear physics. One or more lecturers help learners with hands-on lessons throughout the course.
+
+- [Learning Objectives](#learning-objectives)
 - [External Resources](#external-resources)
-- [Performance Evaluation of Introduction to Computational Science 2024](#performance-evaluation-of-introduction-to-computational-science-2024)
+- [Performance Evaluation](#performance-evaluation)
   - [Report](#report)
   - [Submission Procedure](#submission-procedure)
-  - [Evaluation Policy](#evaluation-policy)
+  - [Grading Policy](#grading-policy)
+
+## Learning Objectives
+
+Computer engineering is an essential part of experimental physics and is actively utilised to achieve research goals. Lecturers will give a basic introduction to Computational Science, which can be applied to the heart of experimental physics, such as data analysis, online/offline and distributed computing. The course program could be optimised for students and aims at students with prior programming experiences such as Python, C++, and Java, but not mandatory.
 
 ## External Resources
 
 The course schedule and course materials can be retrieved: <https://wiki.kek.jp/display/~iwai/Introduction+to+Computational+Science+2024>
 
-## Performance Evaluation of Introduction to Computational Science 2024
+## Performance Evaluation
 
 Create the programs to submit a DAG job into the KEKCC using the _Job Array_ feature of LSF.
 
@@ -60,6 +67,6 @@ Also, **earn +1** if the report discussed something with keywords that appeared 
 
 Once a student is ready to submit the report to be reviewed, open a Pull Request (PR) to the `main` as a target branch. The due date is: **Saturday, August 31st, 2024, at the End of the Day, Anywhere on Earth (AoE)**.
 
-### Evaluation Policy
+### Grading Policy
 
 The course grade will be granted either A, B, C, or D. If the report takes +2 or more extra points, the qualified grade A, and +1 and 0 go B and C, respectively. If there is no PR request before the due date, students may receive a grade of D.
