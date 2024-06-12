@@ -40,7 +40,7 @@ git push
 # Open a pull request with target branch to main
 ```
 
-All the materials must be stored under the directory [`report`](report/). **Grants +1** each if `Makefile` or `CMakeLists.txt` is provided. Which might suggest to create the report in LaTeX.
+All the materials must be stored under the directory [`report`](report/). **Grants +1** each if `Makefile` or `CMakeLists.txt` is provided. Which might suggest him/her to create the report in LaTeX.
 
 ### Report
 
