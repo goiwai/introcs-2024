@@ -15,7 +15,7 @@ Computer engineering is an essential part of experimental physics and is activel
 
 ## External Resources
 
-The course schedule and course materials can be retrieved: <https://wiki.kek.jp/display/~iwai/Introduction+to+Computational+Science+2024>
+The course schedule and lecture notes can be retrieved: <https://wiki.kek.jp/display/~iwai/Introduction+to+Computational+Science+2024>
 
 ## Performance Evaluation
 
