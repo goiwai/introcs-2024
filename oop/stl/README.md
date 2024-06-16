@@ -15,4 +15,4 @@ To use the prebuilt version of GCC, run like `module load gcc/830` before `make`
 #   dict-particle-mass-c++17.exe
 ```
 
-See also: `Day-X.pdf` at <https://wiki.kek.jp/display/~iwai/Introduction+to+Computational+Science+2022>
+See also: `Day-4.pdf` at <https://wiki.kek.jp/display/~iwai/Introduction+to+Computational+Science+2024>
